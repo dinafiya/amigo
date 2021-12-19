@@ -1,2 +1,0 @@
-# amigo
-## editing the file
